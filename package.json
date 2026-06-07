@@ -1,0 +1,12 @@
+{
+  "name": "mi-cpu-en-la-nube",
+  "version": "1.0.0",
+  "description": "Mi servidor 24/7 en Koyeb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
